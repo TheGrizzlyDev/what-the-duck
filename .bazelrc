@@ -1,0 +1,1 @@
+common:wasm --platforms=@rules_rust//rust/platform:wasm
